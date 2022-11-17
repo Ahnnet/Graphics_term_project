@@ -10,7 +10,7 @@ Game Introduce <br>
 <img width="1392" alt="screenshot2" src="https://user-images.githubusercontent.com/90844568/201798680-4b31f6a8-5ab3-4e6a-9411-bb6d918d77b9.png"> <br>
 <img width="1392" alt="screenshot3" src="https://user-images.githubusercontent.com/90844568/201798761-3adfba25-b7b9-45ac-8b03-0dfcade48f4c.png"> <br>
 <img width="1392" alt="screenshot4" src="https://user-images.githubusercontent.com/90844568/201798906-98ec5253-23f8-4454-a22f-1db835b77956.png"> <br><br>
-
+ mobile ver.<br>
 <img width="1392" alt="스크린샷 2022-11-16 오전 2 32 52" src="https://user-images.githubusercontent.com/90844568/201987684-d4b7886b-fb34-4b99-ad76-c3ca95f198d4.png"> <br>
 <img width="1392" alt="스크린샷 2022-11-16 오전 2 33 14" src="https://user-images.githubusercontent.com/90844568/201987742-48dfd37a-b257-4ab8-8be0-05282eeda9d1.png"> <br>
 <img width="1392" alt="스크린샷 2022-11-16 오전 2 33 37" src="https://user-images.githubusercontent.com/90844568/201987764-6e6ce140-3e12-4c9f-994c-97ab1d04292d.png"> <br>
