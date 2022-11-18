@@ -1,6 +1,6 @@
 # ⛴🚢splaSHip🛥🛳
 Gachon University Computer Graphics term project<br>
-Main idea : Avoiding obstacles
+Main idea : Avoiding obstacles, Get a high score
 # 🎥🎬Demo video📽📺
 ```xml
 https://www.youtube.com/watch?v=JsLrlDADjRE
