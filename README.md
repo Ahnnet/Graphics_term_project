@@ -15,7 +15,7 @@ Game Introduce <br>
 <img width="1392" alt="스크린샷 2022-11-17 오후 5 49 00" src="https://user-images.githubusercontent.com/90844568/202399984-20502681-7c9e-4432-a85c-911f21055cd5.png"><br>
 <img width="1392" alt="스크린샷 2022-11-17 오후 5 49 19" src="https://user-images.githubusercontent.com/90844568/202399996-a970ecdf-c5d5-4d04-93b8-0cc901af564b.png"><br><br>
 
-
+📱Mobile ver.📲 
 <img width="1392" alt="스크린샷 2022-11-16 오전 2 32 52" src="https://user-images.githubusercontent.com/90844568/201987684-d4b7886b-fb34-4b99-ad76-c3ca95f198d4.png"> <br>
 <img width="1392" alt="스크린샷 2022-11-16 오전 2 33 14" src="https://user-images.githubusercontent.com/90844568/201987742-48dfd37a-b257-4ab8-8be0-05282eeda9d1.png"> <br>
 <img width="1392" alt="스크린샷 2022-11-16 오전 2 33 37" src="https://user-images.githubusercontent.com/90844568/201987764-6e6ce140-3e12-4c9f-994c-97ab1d04292d.png"> <br>
